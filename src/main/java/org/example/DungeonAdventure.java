@@ -11,7 +11,7 @@ public class DungeonAdventure {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        int health = 100;
+        int health = 105;
         int maxHealth = 100;
         int treasure = 0;
         int dungeonDepth = 1;
