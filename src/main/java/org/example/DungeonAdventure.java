@@ -12,7 +12,7 @@ public class DungeonAdventure {
         Random random = new Random();
 
         int health = 100;
-        int maxHealth = 100;
+        int maxHealth = 110;
         int treasure = 0;
         int dungeonDepth = 1;
         List<String> inventory = new ArrayList<>();
